@@ -56,7 +56,7 @@ A continuación, se muestran capturas que demuestran la interfaz y funcionalidad
 
 | Pantalla Principal (MainScreen) | Demostración de Texto | Pantalla Avanzada (SecondScreen) |
 | :---------------------------------: | :---------------------------: | :----------------------------------: |
-| ![Pantalla principal con 3 tabs y botón de navegación](ruta/a/flutter_screenshot1.png) | ![Página de texto interactiva](ruta/a/flutter_screenshot2.png) | ![Pantalla de listas y barra de regreso automática](ruta/a/flutter_screenshot3.png) |
+| ![Pantalla principal con 3 tabs y botón de navegación](https://github.com/KYaelDLRG/practicaUno/blob/master/photo_4_2025-09-25_05-04-35.jpg) | ![Página de texto interactiva](https://github.com/KYaelDLRG/practicaUno/blob/master/photo_5_2025-09-25_05-04-35.jpg) | ![Pantalla de listas y barra de regreso automática](https://github.com/KYaelDLRG/practicaUno/blob/master/photo_1_2025-09-25_05-04-35.jpg) |
 
 *(Nota: Debes reemplazar `ruta/a/flutter_screenshot.png` con la ubicación real de tus capturas de pantalla para que se visualicen).*
 
